@@ -42,7 +42,7 @@ Property | Data
 
 
 
-![Profile views](https://gpvc.arturio.dev/BEPb)
+![Profile views](https://gpvc.arturio.dev/ninja-1337)
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ninja-1337.ninja-1337" alt="visitors"/>
