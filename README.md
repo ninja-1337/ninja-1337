@@ -22,6 +22,11 @@
   <img src="https://img.icons8.com/color/48/000000/xcode.png" alt="xcode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
 
+<h1 align="center">Github Status 📊</h1>
+<p align="center">
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jestemAria&theme=github_dark" />
+</p>
+
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
