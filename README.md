@@ -27,7 +27,7 @@ Property | Data
 
  . | .
 --- | --- 
-![ninja-1337 github stats](https://github-readme-stats.vercel.app/api?username=ninja-1337&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact)
+![ninja-1337 github stats](https://github-readme-stats.vercel.app/api?username=ninja-1337&show_icons=true&theme=radical&include_all_commits=true) | ![ninja-1337 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-1337&theme=radical&layout=compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninja-1337"></img>
 
