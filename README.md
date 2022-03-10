@@ -24,7 +24,7 @@
 
 <h1 align="center">Github Status 📊</h1>
 <p align="center">
-  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jestemAria&theme=github_dark" />
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninja-1337&theme=github_dark" />
 </p>
 
 
