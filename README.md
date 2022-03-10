@@ -45,7 +45,7 @@ Property | Data
 ![Profile views](https://gpvc.arturio.dev/BEPb)
 
 <p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ninja-1337.ninja-1337" alt="visitors"/>
 </p>
 
 
