@@ -11,7 +11,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 
-<h3 align="left">Operating Systems & IDEs</h3>
+<h3 align="left">Operating Systems</h3>
+<p align="left"> 
+  <a href="https://www.microsoft.com/en-us/windows">
+  <img src="https://img.icons8.com/color/48/000000/mac-os-logo.png" alt="microsft windows" width="40" height="40"/></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="windows terminal" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/xcode.png" alt="xcode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
 
 Property | Data
 --- | --- 
