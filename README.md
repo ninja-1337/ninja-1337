@@ -11,6 +11,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 
+
+<h3 align="left">Technologies</h3>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a>
+
+
 <h3 align="left">Operating Systems</h3>
 <p align="left"> 
   <a href="https://www.microsoft.com/en-us/windows">
