@@ -26,9 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="windows terminal" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/xcode.png" alt="xcode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
+
 
 <h1 align="center">Github Status 📊</h1>
 <p align="center">
