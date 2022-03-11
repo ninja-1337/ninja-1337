@@ -1,4 +1,7 @@
 ![](./src/header_.png)
+<p align="center">
+  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=BlockChain%20Developer;Full%20Stack%20Developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ninja;+Welcome+to+My+GitHub+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Penetration+testing;BlockChain+Developer)](https://git.io/typing-svg)
 
