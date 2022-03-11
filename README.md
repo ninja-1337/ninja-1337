@@ -45,9 +45,10 @@
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninja-1337&theme=github_dark" />
 </p>
 
-<p align="center">
+
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
+<p align="center">
 ![Ninjas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ninja-1337&hide_border=true&github_dark)
 
  . | .
