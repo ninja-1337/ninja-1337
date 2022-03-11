@@ -51,7 +51,7 @@
 
 ![Ninjas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ninja-1337&hide_border=true&github_dark)
 
- . | .
+  | 
 --- | --- 
 ![ninja-1337 github stats](https://github-readme-stats.vercel.app/api?username=ninja-1337&show_icons=true&theme=github_dark&include_all_commits=true) | ![ninja-1337 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-1337&theme=github_dark&layout=compact)
 
