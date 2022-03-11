@@ -19,10 +19,10 @@
 <h3 align="left">Technologies</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="javascript" width="40" height="40"/></a> 
 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="javascript" width="40" height="40"/></a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="javascript" width="40" height="40"/></a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="javascript" width="40" height="40"/></a> 
 
 
