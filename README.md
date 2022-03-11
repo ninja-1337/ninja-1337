@@ -27,6 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-line-wordmark.svg" alt="webpack" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="webpack" width="80" height="80"/></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" alt="webpack" width="80" height="80"/></a>
 
 
 
