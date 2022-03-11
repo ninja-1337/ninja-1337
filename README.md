@@ -47,7 +47,7 @@
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+<h1 align="center">📈 GitHub Activity Graph: 📊</h1>
 <p align="center">
 ![Ninjas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ninja-1337&hide_border=true&github_dark)
 
