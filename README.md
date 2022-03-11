@@ -54,16 +54,16 @@
  . | .
 --- | --- 
 ![ninja-1337 github stats](https://github-readme-stats.vercel.app/api?username=ninja-1337&show_icons=true&theme=github_dark&include_all_commits=true) | ![ninja-1337 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-1337&theme=github_dark&layout=compact)
-
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninja-1337" ></img>
-
+</p>
 
 **📫 How to Reach me:**
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
-</p>
+
 
 
 
