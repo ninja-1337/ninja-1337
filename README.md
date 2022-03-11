@@ -45,7 +45,7 @@
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninja-1337&theme=github_dark" />
 </p>
 
-
+<p align="center">
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Ninjas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ninja-1337&hide_border=true&github_dark)
@@ -55,7 +55,7 @@
 ![ninja-1337 github stats](https://github-readme-stats.vercel.app/api?username=ninja-1337&show_icons=true&theme=github_dark&include_all_commits=true) | ![ninja-1337 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-1337&theme=github_dark&layout=compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninja-1337"></img>
-
+</p>
 
 **📫 How to Reach me:**
 <p align="left">
