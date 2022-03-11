@@ -58,7 +58,8 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninja-1337" ></img>
 </p>
 
-**📫 How to Reach me:**
+
+<h1 align="center">📫 How to Reach me:</h1>
 <p align="center">
 <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
@@ -66,9 +67,9 @@
 
 
 
-
+<p align="center">
 ![Profile views](https://gpvc.arturio.dev/ninja-1337)
-
+</p>
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ninja-1337.ninja-1337" alt="visitors"/>
 </p>
