@@ -29,6 +29,10 @@
   <br>
   
   <img src="https://camo.githubusercontent.com/9cf413f1f5525a3b36c6d8bdf0e80b4ab8a157505e9f39eb1421b04096db999c/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6e6f64656a732d322d3232363033352e706e67" alt="nodejs" width="80" height="80"/></a>
+
+
+  <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_metamask.png" alt="metamask" width="80" height="80"/></a>
+  <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="truffle" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-line-wordmark.svg" alt="apache" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="80" height="80"/></a>
@@ -69,6 +73,22 @@
 <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
+<a target="_blank"><img align="left" height="250" width="250" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+<a href="ninja-1337:@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/ninja-1337"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidchen95&layout=compact&theme=algolia" alt="davidchen95" width="700px"/></a> </p>
+
+
+<p align="center">
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
 
 
 <p align="center">
