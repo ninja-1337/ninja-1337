@@ -4,9 +4,6 @@
 </p>
 
 
-
-### My achievements on HTB
-
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></a>
