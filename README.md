@@ -31,8 +31,8 @@
   <img src="https://camo.githubusercontent.com/9cf413f1f5525a3b36c6d8bdf0e80b4ab8a157505e9f39eb1421b04096db999c/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6e6f64656a732d322d3232363033352e706e67" alt="nodejs" width="80" height="80"/></a>
 
 
-  <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_metamask.png" alt="metamask" width="80" height="80"/></a>
-  <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="truffle" width="80" height="80"/></a>
+  <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-line-wordmark.svg" alt="apache" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="80" height="80"/></a>
@@ -75,7 +75,7 @@
 
 <a target="_blank"><img align="left" height="250" width="250" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
+<p align="left">
 <a href="ninja-1337:@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/ninja-1337"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
