@@ -58,7 +58,7 @@
 <h1 align="center">📈 GitHub Activity Graph: 📊</h1>
 
 ![Ninjas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ninja-1337&hide_border=true&github_dark)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ninja-1337&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ninjas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ninja-1337&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  . | .
 --- | --- 
