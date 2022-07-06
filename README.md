@@ -40,7 +40,6 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-line-wordmark.svg" alt="apache" width="80" height="80"/></a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" alt="gatsby" width="80" height="80"/></a>
   <img src="https://camo.githubusercontent.com/9cf413f1f5525a3b36c6d8bdf0e80b4ab8a157505e9f39eb1421b04096db999c/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6e6f64656a732d322d3232363033352e706e67" alt="nodejs" width="80" height="80"/></a>
 
