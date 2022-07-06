@@ -12,12 +12,13 @@
   <img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="solidity" width="55" height="55"/></a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="55" height="55"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="55" height="55"/></a>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="55" height="55"/></a>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c" width="55" height="55"/></a>
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nim_icon_130304.png" alt="nim" width="55" height="55"/></a>
-   
+  
 
          
   
@@ -25,7 +26,8 @@
 
 
 <h3 align="left">Technologies</h3>
-<p align="left"> 
+<p align="left">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="javascript" width="40" height="40"/></a> 
