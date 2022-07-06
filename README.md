@@ -14,6 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="55" height="55"/></a>
   <img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="solidity" width="55" height="55"/></a>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nim_icon_130304.png" alt="nim" width="55" height="55"/></a>
 
   
 
