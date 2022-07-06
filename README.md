@@ -52,6 +52,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="windows terminal" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
+  <img src="https://preview.redd.it/cvt4kgax95071.png?auto=webp&s=18d9c38658f479c56a6a1bfaf33779ec54260d28" alt="vscode" width="40" height="40"/>
 
 
 <h1 align="center">Github Status 📊</h1>
