@@ -15,7 +15,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="55" height="55"/></a>
   <img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="solidity" width="55" height="55"/></a>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nim_icon_130304.png" alt="nim" width="55" height="55"/></a>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
   
 
 
