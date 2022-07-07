@@ -57,14 +57,14 @@
 
 
 
-<h1 align="center">Github Status 📊</h1>
+<h1 align="center">Github Status </h1>
 <p align="center">
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninja-1337&theme=github_dark" />
 </p>
 
 
 <!--   GitHub stats graph -->
-<h1 align="center">📈 GitHub Activity Graph: 📊</h1>
+<h1 align="center">📈 GitHub Activity Graph: </h1>
 
 [![Ninjas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ninja-1337&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
