@@ -46,7 +46,7 @@
 <br>
 
 <img src="/assets/aws.png" alt="aws" width="149" height="82"/></a>
-<img src="https://w7.pngwing.com/pngs/5/438/png-transparent-linode-llc-virtual-private-server-logo-computer-servers-business.png" alt="linode" width="163" height="79"/></a>
+<img src="/assets/linode.png" alt="linode" width="163" height="79"/></a>
 
 
 <h3 align="left">Operating Systems</h3>
