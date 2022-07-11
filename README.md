@@ -36,6 +36,7 @@
    <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></a>
 <img src="https://camo.githubusercontent.com/c2568ca449a0dd817656010512e345341036abb8f462ad74c5d7aea675094003/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f72656163742d313137353130392e706e67" alt="react" width="40" height="40"/></a>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOGCBr95cHYLfpXOLGdUIhGdrcUmcErSNoFA&usqp=CAU" alt="truffle" width="40" height="40"/></a>
   
   <br>
   
