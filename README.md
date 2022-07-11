@@ -4,7 +4,7 @@
 </p>
 
 
-<h3 align="left">Programming Languages</h3>
+<h2 align="left">Programming Languages</h2>
 <p align="left"> 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a>
@@ -25,7 +25,7 @@
 
 
 
-<h3 align="left">Technologies</h3>
+<h2 align="left">Technologies</h2>
 <p align="left">
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
