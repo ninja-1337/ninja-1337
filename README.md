@@ -36,7 +36,7 @@
    <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></a>
 <img src="https://camo.githubusercontent.com/c2568ca449a0dd817656010512e345341036abb8f462ad74c5d7aea675094003/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f72656163742d313137353130392e706e67" alt="react" width="40" height="40"/></a>
-  <img src="/assets/aws.png" alt="aws" width="123" height="60"/></a>
+  </a>
   
   <br>
   
@@ -45,7 +45,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-line-wordmark.svg" alt="apache" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" alt="gatsby" width="80" height="80"/></a>
   <img src="https://camo.githubusercontent.com/9cf413f1f5525a3b36c6d8bdf0e80b4ab8a157505e9f39eb1421b04096db999c/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6e6f64656a732d322d3232363033352e706e67" alt="nodejs" width="80" height="80"/></a>
-
+  <img src="/assets/aws.png" alt="aws" width="139" height="70"/>
 <h3 align="left">Operating Systems</h3>
 <p align="left"> 
   <a href="https://www.microsoft.com/en-us/windows">
