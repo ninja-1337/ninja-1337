@@ -71,8 +71,7 @@
 <!--   GitHub stats graph -->
 <h1 align="center">📈 GitHub Activity Graph: </h1>
 
-[![Ninjas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ninja-1337&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ninjas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ninja-1337&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com)
  . | .
 --- | --- 
 ![ninja-1337 github stats](https://github-readme-stats.vercel.app/api?username=ninja-1337&show_icons=true&theme=github_dark&include_all_commits=true) | ![ninja-1337 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-1337&theme=github_dark&layout=compact)
