@@ -53,7 +53,6 @@
 
 <h3 align="left">Operating Systems</h3>
 <p align="left"> 
-  <a href="https://www.microsoft.com/en-us/windows">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="70"/></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/2560px-Windows_11_logo.svg.png" alt="windows" width="100" height="40"/></a>
   
