@@ -54,7 +54,7 @@
 <h3 align="left">Operating Systems</h3>
 <p align="left"> 
   <a href="https://www.microsoft.com/en-us/windows">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/2560px-Windows_11_logo.svg.png" alt="windows" width="80" height="40"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/2560px-Windows_11_logo.svg.png" alt="windows" width="100" height="40"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <img src="https://preview.redd.it/cvt4kgax95071.png?auto=webp&s=18d9c38658f479c56a6a1bfaf33779ec54260d28" alt="pshell" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
