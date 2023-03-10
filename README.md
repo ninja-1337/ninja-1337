@@ -54,9 +54,8 @@
 <h3 align="left">Operating Systems</h3>
 <p align="left"> 
   <a href="https://www.microsoft.com/en-us/windows">
-  <img src="https://camo.githubusercontent.com/d55ef84abe041d657aa470f23ca24b13f68dbfe094eb6a877e9cd4330956a7a1/68747470733a2f2f757877696e672e636f6d2f77702d636f6e74656e742f7468656d65732f757877696e672f646f776e6c6f61642f31302d6272616e64732d616e642d736f6369616c2d6d656469612f77696e646f77732d31302e737667" alt="windows" width="40" height="40"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/2560px-Windows_11_logo.svg.png" alt="windows" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="windows terminal" width="40" height="40"/>
   <img src="https://preview.redd.it/cvt4kgax95071.png?auto=webp&s=18d9c38658f479c56a6a1bfaf33779ec54260d28" alt="pshell" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" width="40" height="40"/>
