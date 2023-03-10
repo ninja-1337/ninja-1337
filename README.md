@@ -53,7 +53,7 @@
 
 <h3 align="left">Operating Systems</h3>
 <p align="left"> 
-  <img src="https://i.imgur.com/8qFWfKr.png" alt="Linux" width="100" height="100"/></a>
+  <img src="https://i.imgur.com/8qFWfKr.png" alt="Linux" width="110" height="90"/></a>
   <p align="left"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/2560px-Windows_11_logo.svg.png" alt="windows" width="100" height="40"/>
   
