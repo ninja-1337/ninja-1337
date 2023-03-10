@@ -9,7 +9,7 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="tscript" width="55" height="55" />
-  <img src="https://101blockchains.com/wp-content/uploads/2021/05/solidity-logo.png" alt="solidity" width="85" height="55"/></a>
+  <img src="https://101blockchains.com/wp-content/uploads/2021/05/solidity-logo.png" alt="solidity" width="105" height="55"/></a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="55" height="55"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="53" height="52"/>&nbsp;
