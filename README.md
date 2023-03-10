@@ -28,7 +28,7 @@
 <h2 align="left">Technologies</h2>
 <p align="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/407px-Nextjs-logo.svg.png"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp; 
+<img src="https://blog.logrocket.com/wp-content/uploads/2022/09/build-progress-bar-indicator-next-js-nocdn.png"  title="Nextjs" alt="CSS" width="45" height="45"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
