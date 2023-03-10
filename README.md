@@ -53,7 +53,7 @@
 
 <h3 align="left">Operating Systems</h3>
 <p align="left"> 
-  <img src="https://banner2.cleanpng.com/20180330/oqw/kisspng-linux-unix-operating-systems-command-line-interfac-linux-5abe15b5486d08.3038287615224068372967.jpg" alt="Linux" width="50" height="70"/></a>
+  <img src="https://banner2.cleanpng.com/20180330/oqw/kisspng-linux-unix-operating-systems-command-line-interfac-linux-5abe15b5486d08.3038287615224068372967.jpg" alt="Linux" width="100" height="70"/></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/2560px-Windows_11_logo.svg.png" alt="windows" width="100" height="40"/></a>
   
   <img src="https://preview.redd.it/cvt4kgax95071.png?auto=webp&s=18d9c38658f479c56a6a1bfaf33779ec54260d28" alt="pshell" width="40" height="40"/>
