@@ -28,7 +28,7 @@
 <h2 align="left">Technologies</h2>
 <p align="left">
 
-<img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2147555239/settings_images/sztBYO9XSDmP7U3Fc6z1_15vw4q9kSO61gvM6iEuv_Server_Side_Rendering_for_Dummies.png"  title="Nextjs" alt="CSS" width="45" height="45"/>&nbsp; 
+<img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2147555239/settings_images/sztBYO9XSDmP7U3Fc6z1_15vw4q9kSO61gvM6iEuv_Server_Side_Rendering_for_Dummies.png"  title="Nextjs" alt="CSS" width="65" height="65"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
