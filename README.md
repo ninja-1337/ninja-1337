@@ -87,13 +87,9 @@
 <img src="https://gpvc.arturio.dev/ninja-1337" alt="Profile views"/>
 </p>
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ninja-1337.ninja-1337" alt="visitors"/>
-</p>
-
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it.*
+  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template Fork it.*
 ---
 
 
