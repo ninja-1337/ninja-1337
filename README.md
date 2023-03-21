@@ -54,6 +54,8 @@
 <h3 align="left">Operating Systems</h3>
 <p align="left"> 
   <img src="https://i.imgur.com/8qFWfKr.png" alt="Linux" width="130" height="90"/></a>
+   <img src="https://www.gentoo.org/assets/img/logo/gentoo-horizontal.png" alt="Linux" width="130" height="90"/>
+  
   <p align="left"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/2560px-Windows_11_logo.svg.png" alt="windows" width="100" height="40"/>
   
@@ -89,7 +91,7 @@
 
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template Fork it.*
+  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template Fork it. Remember for it to work you have to rename the repo to your Github username*
 ---
 
 
