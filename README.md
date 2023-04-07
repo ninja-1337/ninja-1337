@@ -32,6 +32,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> 
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="javascript" width="40" height="40"/></a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="javascript" width="40" height="40"/></a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="javascript" width="40" height="40"/></a> 
@@ -40,7 +41,7 @@
 <img src="https://camo.githubusercontent.com/c2568ca449a0dd817656010512e345341036abb8f462ad74c5d7aea675094003/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f72656163742d313137353130392e706e67" alt="react" width="40" height="40"/></a>
   </a>
   <br>
-
+<img src="https://img.stackshare.io/service/4014/sqSv2hIr_400x400.jpg" alt="truffle" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-line-wordmark.svg" alt="apache" width="80" height="80"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" alt="gatsby" width="80" height="80"/></a>
