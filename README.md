@@ -29,6 +29,9 @@
 <p align="left">
 
 <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2147555239/settings_images/sztBYO9XSDmP7U3Fc6z1_15vw4q9kSO61gvM6iEuv_Server_Side_Rendering_for_Dummies.png"  title="Nextjs" alt="CSS" width="65" height="65"/>&nbsp; 
+
+<img src="https://miro.medium.com/v2/resize:fit:480/1*9A6E9kaZZ54idy0HLSlh-A.png"  title="Angular" alt="CSS" width="65" height="65"/>&nbsp; 
+
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m_Ng9MLF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fppjegg7q1kb2pdzmlvf.png"  title="Nestjs" alt="CSS" width="65" height="65"/>&nbsp; 
 
 
