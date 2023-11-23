@@ -31,9 +31,9 @@
 <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2147555239/settings_images/sztBYO9XSDmP7U3Fc6z1_15vw4q9kSO61gvM6iEuv_Server_Side_Rendering_for_Dummies.png"  title="Nextjs" alt="CSS" width="65" height="65"/>
 <img src="https://camo.githubusercontent.com/c2568ca449a0dd817656010512e345341036abb8f462ad74c5d7aea675094003/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f72656163742d313137353130392e706e67" alt="react" width="60" height="60"/></a>
 &nbsp;
-&nbsp;<img src="https://miro.medium.com/v2/resize:fit:480/1*9A6E9kaZZ54idy0HLSlh-A.png"  title="Angular" alt="CSS" width="75" height="45"/>&nbsp;
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m_Ng9MLF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fppjegg7q1kb2pdzmlvf.png"  title="Nestjs" alt="CSS" width="65" height="65"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"  title="Postresql " alt="CSS" width="65" height="65"/>
+&nbsp;<img src="https://miro.medium.com/v2/resize:fit:480/1*9A6E9kaZZ54idy0HLSlh-A.png"  title="Angular" alt="CSS" width="75" height="50"/>&nbsp;
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m_Ng9MLF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fppjegg7q1kb2pdzmlvf.png"  title="Nestjs" alt="CSS" width="65" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"  title="Postresql " alt="CSS" width="65" height="55"/>
 
 
 
